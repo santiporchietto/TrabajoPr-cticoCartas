@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tpjuego
 {
+    //Comentario
     public class Carta
     {
     }
