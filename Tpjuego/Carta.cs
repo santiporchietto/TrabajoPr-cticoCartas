@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Tpjuego
 {
-    //Comentario
+    //Comentario1
+    //Comentario2
     public class Carta
     {
     }
