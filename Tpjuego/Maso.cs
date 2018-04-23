@@ -12,7 +12,10 @@ namespace Tpjuego
 
         private void MezclarMaso(Mazo mazo)
         {
+            foreach (var item in mazo.Cartas)
+            {
 
+            }
         }
     }
 }
