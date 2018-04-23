@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Tpjuego
 {
-    //Comentario1
-    //Comentario2
+    enum TipoDeCarta { Normal, Roja, Amarilla, Negra }
+
     public class Carta
     {
     }
